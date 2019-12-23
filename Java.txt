@@ -1,4 +1,5 @@
 JDK
-JVM
+Abstraction
 JDE
 JRE
+OOPS
